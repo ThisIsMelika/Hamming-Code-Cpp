@@ -1,10 +1,9 @@
----
 
 # Hamming Code in C++
 
 **A robust implementation of the Hamming Error-Correcting Code for encoding, single-bit error detection, and correction.**
 
----
+
 
 ##  Overview
 
